@@ -120,12 +120,12 @@ a:hover {
 /*****************************************************************************/
 
 #date {
-  font-size: 16px;
-  padding-top: 0.25em;
-  margin-bottom: 2em;
-  text-transform: uppercase;
-  font-weight: 600;
-  color: #787878;
+font-size: 16px;
+padding-top: 0.25em;
+margin-bottom: 2em;
+text-transform: uppercase;
+font-weight: 600;
+color: #787878;
 }
 
 #cover-photo-container,
@@ -140,9 +140,9 @@ a:hover {
 #title {
   color: #4a4a4a;
   margin-bottom: 0.35em;
-  font-size: 3em;
+  font-size: 2em;
   line-height: 40px;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 
 .post {
@@ -246,7 +246,7 @@ a:hover {
 .post-title {
   font-weight: 600;
   font-size: 1.25em;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 
 .post-date {
